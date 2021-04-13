@@ -31,3 +31,5 @@ d.	What methods did you use to generate predictions?
 
 The overall purpose of this project is to predict whether the type of a ghost. The file for Sub1 has code for submission #1 and #2 described above. File Sub2 has the code for submission #3 above. The variables provided were used for the models as factors. For predictions, many models were used, included a knn, tree bag and stack model with several models.  
 ![image](https://user-images.githubusercontent.com/77362007/114616129-bfe3ba00-9c63-11eb-9ff8-5f5395c2950d.png)
+
+
